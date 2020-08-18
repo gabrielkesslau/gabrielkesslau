@@ -13,7 +13,7 @@
 -  **Learning :** Full-Stack Development :zap:
 -  **Techs :** Node, React and React Native :rocket:
 -  **Hobbies :** Guitar & Music :headphones:
--  <!--**Fact :** First solve the problem, then write the code :heart: -->
+<!--**Fact :** First solve the problem, then write the code :heart: -->
 -  **Organization :** IBM
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
