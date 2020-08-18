@@ -4,7 +4,7 @@
 **gabrielkesslau/gabrielkesslau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Gabriel Kesslau
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel Kesslau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielkesslau/)](https://www.linkedin.com/in/gabrielkesslau/) [![Outlook Badge](https://img.shields.io/badge/-gabriel.gts@hotmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:gabriel.gts@hotmail.com](mailto:gabriel.gts@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel Kesslau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielkesslau/)](https://www.linkedin.com/in/gabrielkesslau/) [![Outlook Badge](https://img.shields.io/badge/-gabriel.gts@hotmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:gabriel.gts@hotmail.com](mailto:gabriel.gts@hotmail.com)]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
