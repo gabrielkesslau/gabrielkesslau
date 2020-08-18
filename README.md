@@ -5,7 +5,7 @@
   <img align="left" alt="Gabriel's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gabrielkesslau/">
-  <img align="left" alt="Gabriel's Linkedin" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Gabriel's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
